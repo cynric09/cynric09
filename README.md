@@ -23,7 +23,7 @@ Currently   : Building reproducible NGS pipelines
 Background  : Wet lab → Dry lab → "wait, why not both?"
 Obsession   : Reproducibility. If it needs my laptop, it doesn't work.
 Seeking     : Bioinformatics Co-op / Internship
-```
+````
 
       </td>
       <td valign="middle" width="45%">
