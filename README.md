@@ -2,19 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,1F3864,2e6da4&height=140&section=header&text=Cynric%20Joshua%20Muller&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Turning%20raw%20reads%20into%20real%20biology%20since%202022&descSize=13&descAlignY=70&descColor=a8c4e0"/>
 </div>
 
-<div align="center">
-  <img src="./github_profile.png" width="100%" alt="Cynric Muller - Bioinformatics"/>
-</div>
-
-<div align="center">
-
 **`MS Bioinformatics @ Northeastern`** &nbsp;·&nbsp; **`GPA 3.9`** &nbsp;·&nbsp; **`Boston, MA`**
 
 *Pipeline builder. Genome nerd. Recovering wet lab scientist.*
 
-</div>
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="55%">
 
 ### $ whoami
 
@@ -22,15 +17,21 @@
 > cynric --describe
 
 Name        : Cynric Joshua Muller
-Role        : MS Bioinformatics Student → Aspiring Computational Genomicist
+Role        : MS Bioinformatics → Computational Genomicist
 Location    : Boston, MA (aka biotech heaven)
-Currently   : Building reproducible NGS pipelines & breaking them equally fast
-Background  : Wet lab → Dry lab → "wait, why can't I do both?"
-Obsession   : Reproducibility. If it needs my laptop to work, it doesn't work.
-Seeking     : Bioinformatics Co-op / Internship · Computational Genomics · NGS
+Currently   : Building reproducible NGS pipelines
+Background  : Wet lab → Dry lab → "wait, why not both?"
+Obsession   : Reproducibility. If it needs my laptop, it doesn't work.
+Seeking     : Bioinformatics Co-op / Internship
 ```
 
----
+      </td>
+      <td valign="middle" width="45%">
+        <img src="https://raw.githubusercontent.com/Cynric07/Cynric07/main/github_profile.png" width="100%" alt="banner"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🔬 What's in my pipeline
 
