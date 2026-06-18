@@ -14,7 +14,7 @@
 ### $ whoami
  
 ```bash
-> cynric --describe
+> Description
  
 Name        : Cynric Joshua Muller
 Role        : MS Bioinformatics Student → Aspiring Computational Genomicist
