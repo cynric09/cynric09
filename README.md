@@ -1,4 +1,4 @@
-<div align="center">
+<img width="540" height="49" alt="image" src="https://github.com/user-attachments/assets/213851a4-c5b0-4d0a-bb92-ede5462f0af1" /><div align="center">
 
 # Cynric Joshua Muller
 
@@ -36,6 +36,7 @@ Metagenomics — Full 16S rRNA QIIME2 pipeline (Dockerized): denoising, phylogen
 ML in Genomics — Ensemble classifiers (RF, XGBoost, SVM) for clinical datasets, SMOTE strictly inside CV folds, threshold optimization for clinical sensitivity, SHAP interpretability, and RShiny dashboards for non-computational collaborators.
 
 Biomedical AI — End-to-end RAG pipeline for scientific literature using PubMedBERT embeddings, ChromaDB, and Claude API with structured citation enforcement and automated answer evaluation.
+
 ---
 
 ## 🛠 Stack
