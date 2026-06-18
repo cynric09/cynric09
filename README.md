@@ -7,7 +7,6 @@
 *Pipeline builder. Genome nerd. Recovering wet lab scientist.*
 
 </div>
----
  
 ### $ whoami
  
