@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Cynric Muller - Bioinformatics"/>
+  <img src="./github_profile.png" width="100%" alt="Cynric Muller - Bioinformatics"/>
 </div>
 
 <div align="center">
