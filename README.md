@@ -15,11 +15,11 @@
 
 ## About me
 
-MS Bioinformatics student at Northeastern (GPA 3.9) with a Biotechnology background from Osmania University, India. I build end-to-end NGS pipelines, apply ML to clinical genomics problems, and care deeply about reproducibility — if it can't be re-run cleanly, it isn't finished.
+MS Bioinformatics student at Northeastern (GPA 3.9) with a Biotechnology background from Osmania University, India. I build end-to-end NGS pipelines, apply ML to clinical genomics problems, and care deeply about reproducibility cuz if it can't be re-run cleanly, it isn't finished.
 
 I came from a wet lab background (SEM, UV-Vis, nanoparticle synthesis) which gives me biological intuition that shapes how I think about dry lab work. My primary focus is **bulk RNA-seq pipeline development**, and I've been increasingly working at the intersection of LLMs and biomedical research.
 
-Currently seeking a **bioinformatics co-op / internship** in computational genomics or NGS pipeline development — Boston/Cambridge area.
+Currently seeking a **bioinformatics co-op / internship** in computational genomics or NGS pipeline development.
 
 ---
 
