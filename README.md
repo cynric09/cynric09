@@ -7,7 +7,9 @@
 *Pipeline builder. Genome nerd. Recovering wet lab scientist.*
 
 </div>
- 
+
+--- 
+
 ### $ whoami
  
 ```bash
@@ -39,6 +41,11 @@ Seeking     : Bioinformatics Co-op / Internship · Computational Genomics · NGS
 **`Biomedical AI`** — RAG pipeline over neuromuscular disease literature: PubMedBERT embeddings + ChromaDB + Claude API. Grounded answers. Zero hallucinated citations.
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cynric07/Cynric07/main/github_profile.png" width="100%" alt="banner"/>
+</div>
+
 
 ### 🛠 Stack
 
