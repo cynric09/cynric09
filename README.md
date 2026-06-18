@@ -25,16 +25,17 @@ Currently seeking a **bioinformatics co-op / internship** in computational genom
 
 ## 🧬 What I work on
 
-**RNA-seq & Transcriptomics** — End-to-end bulk RNA-seq pipelines in Python and R: QC (FastQC/MultiQC), alignment (HISAT2, STAR), pseudo-alignment (Salmon, kallisto), quantification (featureCounts), DE analysis (DESeq2, PyDESeq2), and pathway enrichment (GO, KEGG, GSEA). Applied to imatinib-treated cancer lines and TCGA-BRCA tumor/normal cohorts.
+Bulk RNA-seq & Transcriptomics — End-to-end pipelines in Python and R: QC (FastQC/MultiQC), alignment (HISAT2, STAR), pseudo-alignment (Salmon, kallisto), quantification (featureCounts), DE analysis (DESeq2, PyDESeq2), and pathway enrichment (GO, KEGG, GSEA). Applied to imatinib-treated cancer lines and TCGA-BRCA tumor/normal cohorts (1,200+ samples).
 
-**Variant Analysis** — GATK-based variant calling workflows, SAMtools for BAM manipulation and QC. Solid understanding of WGS/WES preprocessing and filtering pipelines.
+Single-Cell RNA-seq — Built a full scRNA-seq pipeline in R/Seurat on 2,700 human PBMCs: multi-metric QC, HVG selection (2,000/13,714 genes), PCA + UMAP dimensionality reduction, Louvain clustering, and Wilcoxon-based marker gene identification (3,454 significant markers) across 9 transcriptionally distinct immune cell populations.
 
-**Metagenomics** — Full 16S rRNA QIIME2 pipeline (Dockerized): denoising, phylogenetics (MAFFT + FastTree), ASV taxonomy, alpha/beta diversity with PERMANOVA. Wrote custom Python scripts to bridge RDP taxonomy into QIIME2 — fixing a real compatibility gap, not just following a tutorial.
+Variant Analysis — GATK-based variant calling workflows, SAMtools for BAM manipulation and QC. Solid understanding of WGS/WES preprocessing and filtering pipelines.
 
-**ML in Genomics** — Ensemble classifiers (RF, XGBoost, SVM) for clinical datasets, SMOTE strictly inside CV folds, threshold optimization for clinical sensitivity, SHAP interpretability, and RShiny dashboards for non-computational collaborators.
+Metagenomics — Full 16S rRNA QIIME2 pipeline (Dockerized): denoising, phylogenetics (MAFFT + FastTree), ASV taxonomy, alpha/beta diversity with PERMANOVA. Wrote custom Python scripts to bridge RDP taxonomy into QIIME2 — fixing a real compatibility gap, not just following a tutorial.
 
-**Biomedical AI** — End-to-end RAG pipeline for scientific literature using PubMedBERT embeddings, ChromaDB, and Claude API with structured citation enforcement and automated answer evaluation.
+ML in Genomics — Ensemble classifiers (RF, XGBoost, SVM) for clinical datasets, SMOTE strictly inside CV folds, threshold optimization for clinical sensitivity, SHAP interpretability, and RShiny dashboards for non-computational collaborators.
 
+Biomedical AI — End-to-end RAG pipeline for scientific literature using PubMedBERT embeddings, ChromaDB, and Claude API with structured citation enforcement and automated answer evaluation.
 ---
 
 ## 🛠 Stack
