@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="./banner.png" width="100%" alt="Cynric Muller - Bioinformatics"/>
+</div>
+
+<div align="center">
 
 **`MS Bioinformatics @ Northeastern`** &nbsp;·&nbsp; **`GPA 3.9`** &nbsp;·&nbsp; **`Boston, MA`**
 
