@@ -1,5 +1,3 @@
-<img width="540" height="49" alt="image" src="https://github.com/user-attachments/assets/213851a4-c5b0-4d0a-bb92-ede5462f0af1" /><div align="center">
-
 # Cynric Joshua Muller
 
 **MS Bioinformatics · Northeastern University · Boston, MA · GPA 3.9**
