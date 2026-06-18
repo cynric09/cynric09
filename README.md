@@ -6,30 +6,25 @@
 
 *Pipeline builder. Genome nerd. Recovering wet lab scientist.*
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
+</div>
+---
+ 
 ### $ whoami
-
+ 
 ```bash
 > cynric --describe
-
+ 
 Name        : Cynric Joshua Muller
-Role        : MS Bioinformatics → Computational Genomicist
+Role        : MS Bioinformatics Student → Aspiring Computational Genomicist
 Location    : Boston, MA (aka biotech heaven)
-Currently   : Building reproducible NGS pipelines
-Background  : Wet lab → Dry lab → "wait, why not both?"
-Obsession   : Reproducibility. If it needs my laptop, it doesn't work.
-Seeking     : Bioinformatics Co-op / Internship
+Currently   : Building reproducible NGS pipelines & breaking them equally fast
+Background  : Wet lab → Dry lab → "wait, why can't I do both?"
+Obsession   : Reproducibility. If it needs my laptop to work, it doesn't work.
+Seeking     : Bioinformatics Co-op / Internship · Computational Genomics · NGS
 ```
+ 
+---
 
-</td>
-<td valign="middle" width="45%">
-<img src="github_profile.png" width="100%" alt="banner"/>
-</td>
-</tr>
-</table>
 ### 🔬 What's in my pipeline
 
 **`Bulk RNA-seq`** — End-to-end: QC → alignment (HISAT2/STAR) → quantification (Salmon/kallisto) → DE (DESeq2/PyDESeq2) → enrichment (GO/KEGG/GSEA). Real datasets, real cancer biology.
