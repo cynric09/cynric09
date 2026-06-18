@@ -43,7 +43,7 @@ Seeking     : Bioinformatics Co-op / Internship · Computational Genomics · NGS
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Cynric07/Cynric07/main/github_profile.png" width="100%" alt="banner"/>
+  <img src="github_profile.png" width="100%" alt="banner"/>
 </div>
 
 
