@@ -26,7 +26,7 @@ Seeking     : Bioinformatics Co-op / Internship
 
 </td>
 <td valign="middle" width="45%">
-<img src="https://raw.githubusercontent.com/Cynric07/Cynric07/main/github_profile.png" width="100%" alt="banner"/>
+<img src="github_profile.png" width="100%" alt="banner"/>
 </td>
 </tr>
 </table>
